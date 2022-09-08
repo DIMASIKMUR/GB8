@@ -52,8 +52,3 @@ int[,] SortDescendingOrder(int[,] array)
     }
     return array;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
