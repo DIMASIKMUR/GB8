@@ -19,6 +19,7 @@ int[] RandomArray(int length)
             i--;
     }
     return number;
+    
 }
 
 int[,,] GetFillArray(int[] number)
